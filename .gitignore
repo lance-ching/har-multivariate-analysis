@@ -1,0 +1,21 @@
+# Data（來源與下載方式見 data/README.md）
+data/*.csv
+
+# 不公開的本機檔案（草稿、課程作業說明）
+_archive/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+
+# OS
+.DS_Store
